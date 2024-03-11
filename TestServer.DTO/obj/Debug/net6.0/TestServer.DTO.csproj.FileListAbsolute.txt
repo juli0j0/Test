@@ -1,0 +1,11 @@
+D:\Р\test\TestServer\TestServer\TestServer.DTO\bin\Debug\net6.0\TestServer.DTO.deps.json
+D:\Р\test\TestServer\TestServer\TestServer.DTO\bin\Debug\net6.0\TestServer.DTO.dll
+D:\Р\test\TestServer\TestServer\TestServer.DTO\bin\Debug\net6.0\TestServer.DTO.pdb
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\TestServer.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\TestServer.DTO.AssemblyInfoInputs.cache
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\TestServer.DTO.AssemblyInfo.cs
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\TestServer.DTO.csproj.CoreCompileInputs.cache
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\TestServer.DTO.dll
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\refint\TestServer.DTO.dll
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\TestServer.DTO.pdb
+D:\Р\test\TestServer\TestServer\TestServer.DTO\obj\Debug\net6.0\ref\TestServer.DTO.dll

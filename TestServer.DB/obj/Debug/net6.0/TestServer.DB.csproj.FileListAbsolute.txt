@@ -1,0 +1,15 @@
+D:\Р\test\TestServer\TestServer\TestServer.DB\bin\Debug\net6.0\TestServer.DB.deps.json
+D:\Р\test\TestServer\TestServer\TestServer.DB\bin\Debug\net6.0\TestServer.DB.dll
+D:\Р\test\TestServer\TestServer\TestServer.DB\bin\Debug\net6.0\TestServer.DB.pdb
+D:\Р\test\TestServer\TestServer\TestServer.DB\bin\Debug\net6.0\TestServer.DTO.dll
+D:\Р\test\TestServer\TestServer\TestServer.DB\bin\Debug\net6.0\TestServer.DTO.pdb
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.csproj.AssemblyReference.cache
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.AssemblyInfoInputs.cache
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.AssemblyInfo.cs
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.csproj.CoreCompileInputs.cache
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.csproj.CopyComplete
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.dll
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\refint\TestServer.DB.dll
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\TestServer.DB.pdb
+D:\Р\test\TestServer\TestServer\TestServer.DB\obj\Debug\net6.0\ref\TestServer.DB.dll

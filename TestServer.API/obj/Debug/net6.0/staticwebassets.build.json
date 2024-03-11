@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dyn0jpo+JtmTLqRpgD89PfKS2C/G40wXfFN08NhjFCs=",
+  "Source": "TestServer.API",
+  "BasePath": "_content/TestServer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
